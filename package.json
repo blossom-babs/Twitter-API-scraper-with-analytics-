@@ -1,0 +1,24 @@
+{
+  "name": "twitter-api-scraper-with-analytics-",
+  "version": "1.0.0",
+  "description": "Learning to get information from a remote source",
+  "main": "index.js",
+  "scripts": {
+    "build": "babel src -d lib"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Iamhafsah/Twitter-API-scraper-with-analytics-.git"
+  },
+  "author": "Hafsah, Blossom, Onyinye",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Iamhafsah/Twitter-API-scraper-with-analytics-/issues"
+  },
+  "homepage": "https://github.com/Iamhafsah/Twitter-API-scraper-with-analytics-#readme",
+  "devDependencies": {
+    "@babel/cli": "^7.10.4",
+    "@babel/core": "^7.10.4",
+    "@babel/preset-env": "^7.10.4"
+  }
+}
