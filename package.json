@@ -8,17 +8,20 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Iamhafsah/Twitter-API-scraper-with-analytics-.git"
+    "url": "git+https://github.com/blossom-babs/Twitter-API-scraper-with-analytics-.git"
   },
   "author": "Hafsah, Blossom, Onyinye",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Iamhafsah/Twitter-API-scraper-with-analytics-/issues"
+    "url": "https://github.com/blossom-babs/Twitter-API-scraper-with-analytics-/issues"
   },
-  "homepage": "https://github.com/Iamhafsah/Twitter-API-scraper-with-analytics-#readme",
+  "homepage": "https://github.com/blossom-babs/Twitter-API-scraper-with-analytics-#readme",
   "devDependencies": {
     "@babel/cli": "^7.10.4",
     "@babel/core": "^7.10.4",
     "@babel/preset-env": "^7.10.4"
+  },
+  "dependencies": {
+    "axios": "^0.19.2"
   }
 }
