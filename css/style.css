@@ -1,0 +1,50 @@
+body,html{
+  height: 100%;
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  background: rgb(88, 77, 77);
+  font-family: sans-serif;
+  color: #fff;
+}
+#main-upper{
+ background-image: url('../images/bg-2.jpg');
+ background-size: cover;
+ background-repeat: no-repeat;
+ background-position: center;
+}
+.overlay {
+  background: linear-gradient(rgba(0, 0, 0, 0.5) 0%, rgba(0, 0, 0, 0.5) 95%);
+  height: 100%;
+  width: 100%;
+}
+.location p{
+  display: block;
+}
+.location{
+  height: 30vh;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+.temperature{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.degree-section{
+  display: flex;
+  align-items: center;
+}
+.degree-section span{
+  margin: 10px;
+  font-size: 30px;
+}
+.degree-section h2{
+  font-size: 40px;
+}
+#footer{
+  text-align: center;
+  font-size: 20px;
+  font-weight: bold;
+}
