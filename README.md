@@ -1,1 +1,1 @@
-# Twitter-API-scraper-with-analytics-
+# Simple weather App
